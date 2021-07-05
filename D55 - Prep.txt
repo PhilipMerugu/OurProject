@@ -1,0 +1,38 @@
+C:\Users\Srilatha Merugu\IdeaProjects\RightMoveCucumber
+
+
+POLYMORPHISM LINK:
+--------------------
+
+https://beginnersbook.com/2013/03/polymorphism-in-java/
+-------------------------
+Interview prep:
+---------------
+1) AWS (Amazon) is their bread & butter
+2) Dealing with a)Renewable energy assement tool
+                b)CRM
+                c)Business Transformation(Switch)
+
+3)D55 approach a)Understanding the requirements
+               b)Solution Design
+               c)System architecture
+               d)Product backlog
+               e)Build
+               f)Deployment
+
+4)D55 MD & IT Director : Mr.Jonathan Rothwell
+
+5)Partnership with Amazon AWS a)AWS cloud formation
+                               b)Serverless
+                               c)AWS Lambda
+                               d)AWS RDS
+6)Clients : a)Ensek
+            b)ITP energised
+            c)Switch2
+            d)Ongen
+
+7)Address: D55 Ltd,
+           Manchester Technology Centre,
+           Oxford Road,
+           Manchester,
+           M1 7ED
